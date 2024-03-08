@@ -23,7 +23,7 @@ avatar_image: /img/profile_picture.JPG
 #-------------------------------https://github.com/#
 # Contact links
 linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://prashant-yelpale.github.io/"  # Add your github handle
+github: "https://github.com/#"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
